@@ -1,0 +1,13 @@
+setuptools
+wheel
+twine
+flake8
+pytest
+pytest-mock
+pytest-cov
+mypy
+black
+isort
+pydocstyle
+docformatter
+lazydocs
