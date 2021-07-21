@@ -4,5 +4,7 @@ sympy
 pandas
 numba
 torch
+# vision
+pillow
+albumentations
 torchvision
-
