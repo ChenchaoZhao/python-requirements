@@ -10,4 +10,5 @@ black
 isort
 pydocstyle
 docformatter
-lazydocs
+pdoc
+#lazydocs
