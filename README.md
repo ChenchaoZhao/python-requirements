@@ -2,4 +2,6 @@
 Python requirements for work
 
 ## Mac M1 or ARM
-```pip install --no-binary :all: --no-use-pep517 scipy```
+Install scipy using homebrew then link homebrew packages to venv using:
+
+```python -m venv --system-site-packages ~/path/to/venv```
