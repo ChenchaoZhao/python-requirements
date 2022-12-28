@@ -10,3 +10,5 @@ torch
 pillow
 albumentations
 torchvision
+# nlp
+torchtext
